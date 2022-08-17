@@ -4,8 +4,8 @@
   
   ## Table Of Contents
   * [Description](#description)
-  * [Installation](#installation)
-  * [Usage](#usage)
+  * [Deployed Application](#deployed)
+  * [Installation/Usage](#usage)
   * [License](#license)
   * [Contribution](#contribution)
   * [Test Instructions](#test)
@@ -19,7 +19,6 @@
   (The deployed application can be viewed at:
   [Note Taker Application URL] (https://notetaker-app-bc.herokuapp.com/))
  
-
   ## Installation/Usage
   * npm package: Express.js to build the server
   * npm Package: uuid to generate unique ID's for each note
